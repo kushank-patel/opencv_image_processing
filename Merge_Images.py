@@ -1,5 +1,4 @@
-#🔅 Task 35.3
-#📌 Take 2 images and combine it to form a single image. For example, collage 
+#Take 2 images and combine it to form a single image. For example, collage 
 
 #import cv2 
 import cv2
