@@ -1,9 +1,11 @@
-#🔅 Task 35.1
-#📌 Create an image by yourself Using Python Code 
+# Create an image by yourself Using Python Code 
 
 import cv2
+
 import numpy as np
+
 cn = np.zeros([500, 500, 3],dtype = np.uint8)
+
 cn.shape
 
 #####################
