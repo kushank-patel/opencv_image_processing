@@ -1,5 +1,4 @@
-#🔅 Task 35.2
-#📌 Take 2 images, crop some part of both the images and swap them.
+#Take 2 images, crop some part of both the images and swap them.
 
 import cv2
 
